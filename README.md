@@ -4,7 +4,7 @@
 
 A simple and modern product card built with HTML and CSS.
 
-<img src="./preview.png" alt="Project Preview" width="600"/>
+<img src="./preview.jpg" alt="Project Preview" width="600"/>
 
 </div>
 
